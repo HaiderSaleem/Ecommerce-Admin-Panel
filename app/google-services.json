@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "138859370973-2drarmetvfivrl2659nmoqefr3tj4kgi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mhaidersaleem.bottom",
+            "certificate_hash": "ce707207eaf1a2a95c90489776aa4ece3810fce8"
+          }
+        },
+        {
           "client_id": "138859370973-d8sq348ds41h69g0ig7691ocbnut9cms.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
@@ -33,20 +41,13 @@
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 2,
           "other_platform_oauth_client": [
             {
               "client_id": "138859370973-u4lu43b3aehmnp9ge3kbihc48af567gh.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
-        },
-        "ads_service": {
-          "status": 2
         }
       }
     },
@@ -77,20 +78,13 @@
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 2,
           "other_platform_oauth_client": [
             {
               "client_id": "138859370973-u4lu43b3aehmnp9ge3kbihc48af567gh.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
-        },
-        "ads_service": {
-          "status": 2
         }
       }
     },
@@ -102,6 +96,14 @@
         }
       },
       "oauth_client": [
+        {
+          "client_id": "138859370973-mf97523bd7toh7u8ocim8fla2jqdcil5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mhaidersaleem.tufadminpanel",
+            "certificate_hash": "5feb0252e9a64774335d4126a17e83f134cba8b9"
+          }
+        },
         {
           "client_id": "138859370973-bm63o0qa2lae8rrjq0tuiutbvedqrpan.apps.googleusercontent.com",
           "client_type": 1,
@@ -121,20 +123,13 @@
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 2,
           "other_platform_oauth_client": [
             {
               "client_id": "138859370973-u4lu43b3aehmnp9ge3kbihc48af567gh.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
-        },
-        "ads_service": {
-          "status": 2
         }
       }
     }
